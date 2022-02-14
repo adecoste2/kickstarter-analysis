@@ -2,5 +2,5 @@
 Overview: Performing analysis on Kickstarter data to uncover trends
 
 ## Visualizations
-![Subcategory_Staticstics_US](Subcategory Statistics US.png)
+![Subcategory_Staticstics_US](Subcategory%20Statistics%20US.png)
 
