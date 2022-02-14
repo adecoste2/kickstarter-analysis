@@ -1,3 +1,31 @@
+# Kickstarting with Excel
+
+## Overview of Project
+Performing analysis on Kickstarter data.
+
+### Purpose
+To uncover trends of Kickstarter data to glean insight on viable kickstarter fundraising tactics.
+
+## Analysis and Challenges
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
+
+
+
 # kickstarter-analysis
 Overview: Performing analysis on Kickstarter data to uncover trends
 
@@ -16,4 +44,8 @@ Overview: Performing analysis on Kickstarter data to uncover trends
 ## Recommendations
 
 In a complete analysis of Kickstarter Data supplied the recommendation to the client is that she try to get her play produced in the US for less that her estamted budget of $10,000. A more conservative kickstarter goal would be approximately $5,000 launching in the month of May. Furthermore, when looking to a potential future project in Great Britian, the client should try to get her play produced for less than £4,000 as the mean campaign goal is around £4,000 with half of the campaign goals being less than £2,000, which is just over the 3rd quartile for amounts pledged.
+
+
+
+
 
